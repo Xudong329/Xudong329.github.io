@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+	
+<head>
+    	<meta charset = "utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    	<title> 2023年记事 </title>
+</head>
+  
+<body >
+  <audio src="BGM_2023.mp3" loop="loop" autoplay="autoplay"></audio>
+	<div class="container">
+		<div class="row" style="background-color: #f8dede; >
+			<div><h3><strong> 2023年 </strong></h3></div>
+			<div><h7 style="color: gray;"><i>等待，因为爱 ———— 哥哥</i></h7></div>
+      			<div><h7 style="color: gray;"><i> ———— 乖宝</i></h7></div>
+		
+			<div class="panel panel-default"> 
+       		 		<div class="panel-heading">
+          				<h7 class="panel-title">七月二十一</h7>
+          				<div class="panel-body">
+            					<h8>人生第一次打围巾，嗯，希望下次给小宝织得更好看些。</h8>
+            					<img src="/2023_07_21_01.jpg" class="img-rounded"></img>
+          				</div>
+        			</div>
+      			</div>
+		</div>
+	</div>
+</body>
+</html>
